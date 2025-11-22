@@ -1,1 +1,37 @@
-/* write your override styles here */
+/* /* Cleanup the graffiti wall by hiding all tags */
+
+/* Tag 1 */
+#wall .tag-1 {
+  display: none;
+}
+
+/* Tag 2 */
+#wall .tag-2 {
+  display: none;
+}
+
+/* Tag 3 */
+#wall .tag-3 {
+  display: none;
+}
+
+/* Tag 4 */
+#wall .tag-4 {
+  display: none;
+}
+
+/* Tag 5 */
+#wall .tag-5 {
+  display: none;
+}
+
+/* Tag 6 */
+#wall .tag-6 {
+  display: none;
+}
+
+/* Tag 7 */
+#wall .tag-7 {
+  display: none;
+}
+write your override styles here */
